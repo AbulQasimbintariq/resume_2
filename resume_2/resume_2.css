@@ -1,0 +1,74 @@
+*{
+    background: rgb(5, 77, 101);
+}
+ol{
+    margin-top: 2%;
+    color: rgb(193, 183, 129);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 270%;
+    list-style: circle;
+}
+.photo{
+    margin-top: 30vh;
+    margin-left: 140vh;
+    position: absolute;
+    border: none ;
+    font-size:200% ;
+    font-style: italic ;
+}
+input{
+    margin-left: 2%;
+    margin-top: 6%;
+    border: none !important;
+    font-size: 450%;
+    /* -ms-text-combine-horizontal: all; */
+}
+/* .name{
+    border: none !important;
+    font-size: 400%;
+} */
+.CVcomp {
+    margin-top: 0%;
+    border: none !important;
+    font-size: 60%;
+}
+a:hover{
+    color:  rgb(148, 137, 137);
+}
+a{
+    position: absolute;
+    padding: 2px;
+    color: rgb(219, 208, 144);
+    font-size: 200%;
+    margin-left:2%;
+    margin-top: .5%;
+}
+
+textarea {
+    border: none;
+    width: 80%;
+    height: 25vw;
+    box-sizing: border-box; 
+    margin-left: 5vw;
+    font-size: 1.5rem;
+    text-align: left;
+}
+.about{
+    border: none;
+    width: 40%;
+    height: 20vw;
+    box-sizing: border-box; 
+    margin-left: 5vw;
+    font-size: 1.5rem;
+    text-align: left; 
+}
+.skills{
+    border: none;
+    width: 80%;
+    height: 35vw;
+    box-sizing: border-box; 
+    margin-left: 5vw;
+    font-size: 1.5rem;
+    text-align: left;    
+}

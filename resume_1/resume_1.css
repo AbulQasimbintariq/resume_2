@@ -1,0 +1,57 @@
+*{
+    background: rgb(5, 77, 101);
+}
+h1{
+    color: rgb(193, 183, 129);
+    font-style: italic;
+    font-weight: bold; 
+    font-size: 400%;
+    margin-left: 2%;
+}
+ol{
+    color: rgb(193, 183, 129);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 270%;
+    list-style: circle;
+}
+p{    
+    color: rgb(222, 219, 203);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40%;
+}
+ul{
+    color: rgb(222, 219, 203);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40%;
+    list-style: lower-roman;
+}
+ul p {
+    font-size: 70%;
+    color: rgb(176, 172, 147);
+}
+.photo{
+    margin-top: 10%;
+    margin-left: 70%;
+    position: absolute;
+}
+/* .photo{
+    width: 100%;
+    min-height: 70vh;
+background: url('photo/photo.jpeg') no-repeat;
+background-size: 100%;
+position: relative;
+} */
+a:hover{
+    color:  rgb(148, 137, 137);
+}
+a{
+    padding: 2px;
+    color: rgb(219, 208, 144);
+    /* color: rgb(148, 137, 137); */
+    font-size: 200%;
+    margin: 2%;
+    
+}
